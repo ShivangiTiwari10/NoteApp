@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotesFoxAndroid</string>
+    <string name="delete">Delete</string>
+    <string name="todo">ToDo</string>
+    <string name="type_somthing">Type Somthing</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="text">Text</string>
+    <string name="tittle">Tittle</string>
+</resources>
